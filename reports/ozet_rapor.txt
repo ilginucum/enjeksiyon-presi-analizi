@@ -1,0 +1,59 @@
+================================================================================
+                    ENJEKSİYON PRESİ ANALİZ RAPORU
+                              O&O Technology
+================================================================================
+
+Rapor Tarihi: 2025-10-08 19:32:59
+
+================================================================================
+
+1. VERİ ÖZETİ
+--------------------------------------------------------------------------------
+   Ham Veri Satırı: 2631
+   Temizlenmiş Veri Satırı: 2630
+   Silinen Satır: 1
+   Sütun Sayısı: 13
+   Tarih Aralığı: 2025-01-07 - 2025-01-14
+
+2. ANOMALİ TESPİT SONUÇLARI
+--------------------------------------------------------------------------------
+   Toplam Anomali: 248 (9.4%)
+   Anomali Bulunan Parametre: 4 adet
+
+   Detay:
+      • PİSTON SÜRTÜNME BASINCI: 155 adet
+      • KALIP DOLUM ZAMANI: 31 adet
+      • İKİNCİ FAZ HIZI: 59 adet
+      • 3. FAZ BASINC YÜKSELME ZAMANI: 3 adet
+
+3. PERFORMANS METRİKLERİ
+--------------------------------------------------------------------------------
+   Ortalama Çevrim Süresi: 1584 ms
+   Saatlik Kapasite: 2273 ürün/saat
+   Verimlilik Oranı: 0.7%
+   Günlük Ortalama Üretim: 376 ürün
+   Kalite Oranı: 92.9%
+   Kalite Sorunlu Ürün: 186 adet
+   Makine Sağlık Skoru: 67.6/100 - ORTA 🟠
+
+4. ÖNLEYİCİ BAKIM ÖNERİLERİ
+--------------------------------------------------------------------------------
+
+   1. [YÜKSEK] Valf Sistemi
+      Sorun: 90 adet basınç yükselme problemi
+      Öneri: Valf sistemi kontrolü ve temizliği acil yapılmalı
+      Tahmini Süre: 3-4 saat
+
+   2. [ORTA] Üretim Planlaması
+      Sorun: Verimlilik düşük (%0.7)
+      Öneri: Duruş sürelerinin analizi ve üretim planlamasının optimizasyonu
+      Tahmini Süre: 1-2 gün (analiz)
+
+5. SONUÇ VE DEĞERLENDİRME
+--------------------------------------------------------------------------------
+   Bu analiz, enjeksiyon presi makinasının operasyonel verilerini
+   inceleyerek veri odaklı kararlar almayı sağlamaktadır.
+
+   Teşekkürler!
+
+================================================================================

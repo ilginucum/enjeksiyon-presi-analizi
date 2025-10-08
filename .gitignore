@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Data files (büyük dosyalar)
+*.xlsx
+*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+
+# Reports (grafikler çok büyük olabilir)
+reports/figures/*.png
+reports/*.pdf
+reports/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
