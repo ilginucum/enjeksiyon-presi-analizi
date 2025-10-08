@@ -196,7 +196,7 @@ reports/
 
 ## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
+Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 
 ## 🙏 Teşekkürler
 
