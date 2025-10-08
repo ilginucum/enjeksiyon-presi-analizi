@@ -1,0 +1,121 @@
+================================================================================
+                         FIRIN ANALİZ RAPORU
+                              O&O Technology
+================================================================================
+Rapor Tarihi: 2025-10-08 21:09:38
+================================================================================
+
+1. VERİ ÖZETİ
+--------------------------------------------------------------------------------
+   Ham Veri Satırı: 38,792
+   Temizlenmiş Veri Satırı: 38,792
+   Sütun Sayısı: 69
+   Tarih Aralığı: 2024-11-01 - 2024-12-30
+   Analiz Dönemi: 60 gün
+   Toplam Sıcaklık Sensörü: 30 adet
+   Toplam Güç Ölçüm Noktası: 18 adet
+
+2. SICAKLIK KONTROL PERFORMANSI
+--------------------------------------------------------------------------------
+   Genel Kontrol Başarısı: 81.5%
+   Kontrol Edilen Bölge: 12 adet
+
+   En İyi Performans Gösteren Bölgeler:
+      1. CEH.3 ALT1: 95.9%
+      2. CEH.3 ÜST2: 94.2%
+      3. CEH.3 ALT2: 91.9%
+
+   İyileştirme Gereken Bölgeler:
+      1. ÖN ISITMA: 38.2% (Ort. Fark: 26.4°C)
+      2. CEH.1 ALT1: 65.1% (Ort. Fark: 13.8°C)
+      3. CEH.1 ÜST2: 76.6% (Ort. Fark: 12.2°C)
+
+3. CEH (BÖLME) ANALİZİ
+--------------------------------------------------------------------------------
+   CEH.1 Ortalama Sıcaklık: 700.0°C
+   CEH.2 Ortalama Sıcaklık: 837.6°C
+   CEH.3 Ortalama Sıcaklık: 838.2°C
+   Maksimum Fark: 138.2°C
+   Denge Skoru: 11.8/100
+   ⚠️  UYARI: Ceh'ler arası yüksek sıcaklık farkı tespit edildi!
+
+4. ENERJİ VERİMLİLİĞİ
+--------------------------------------------------------------------------------
+   Ortalama Güç Kullanımı: 36.9%
+   Enerji Verimlilik Skoru: 92.1/100
+   ⚠️  Düşük kapasite kullanımı - Üretim artırılabilir
+
+5. SOĞUTMA SİSTEMİ PERFORMANSI
+--------------------------------------------------------------------------------
+   Soğutma 1: 700.2°C
+   Soğutma 2: 605.1°C
+   Soğutma 3: 496.0°C
+   Toplam Soğutma: 204.2°C
+   Soğutma Etkinliği: 100.0%
+   Aşamalı Soğutma:
+      • 1→2: 95.1°C
+      • 2→3: 109.1°C
+   ✅ Dengeli soğutma sağlanıyor
+
+6. GENEL PERFORMANS SKORU
+--------------------------------------------------------------------------------
+   Sıcaklık Kontrolü: 40.8/50
+   Enerji Verimliliği: 27.6/30
+   Soğutma Etkinliği: 20.0/20
+   --------------------------------------------------
+   TOPLAM SKOR: 88.4/100
+   Fırın Durumu: İYİ ✅
+
+7. ANOMALİ TESPİT SONUÇLARI
+--------------------------------------------------------------------------------
+   Toplam Anomali: 86,021 (221.7%)
+   Kategori Sayısı: 12 adet
+
+   En Kritik Anomali Kategorileri:
+      1. Sıcaklık - ÖN ISITMA: 23,981 adet
+      2. Sıcaklık - CEH.1 ALT1: 13,526 adet
+      3. Sıcaklık - CEH.1 ÜST2: 9,094 adet
+      4. Sıcaklık - CEH.1 ÜST1: 7,732 adet
+      5. Sıcaklık - CEH.2 ALT2: 5,997 adet
+
+8. ÖNLEYİCİ BAKIM ÖNERİLERİ
+--------------------------------------------------------------------------------
+   Toplam Öneri: 2 adet
+   Yüksek Öncelikli: 2
+   Orta Öncelikli: 0
+   Düşük Öncelikli: 0
+
+   1. [YÜKSEK] Ceh Dengesi
+      Sorun: Ceh bölmeleri arası büyük sıcaklık farkı (138.2°C)
+      Öneri: Ceh bölmelerinin ısıtma elemanları ve sensörleri kontrol edilmeli
+      Tahmini Süre: 4-6 saat
+
+   2. [YÜKSEK] Kritik Bölgeler
+      Sorun: 1 bölgede kritik kontrol sorunu: ÖN ISITMA
+      Öneri: Bu bölgelerin sensör ve ısıtıcıları acil kontrol edilmeli
+      Tahmini Süre: 4-6 saat
+
+
+9. OPERASYONEL METRİKLER
+--------------------------------------------------------------------------------
+   Toplam Kayıt: 38,792
+   Analiz Dönemi: 60 gün
+   Günlük Ortalama Kayıt: 825
+   Veri Tutarlılığı: 80.0/100
+
+10. SONUÇ VE DEĞERLENDİRME
+--------------------------------------------------------------------------------
+
+   Bu analiz, endüstriyel fırının operasyonel verilerini inceleyerek
+   veri odaklı kararlar almayı sağlamaktadır. Analiz sonuçlarına göre:
+
+   ✅ Fırın iyi performans göstermektedir.
+   Küçük iyileştirmeler ile optimal seviyeye ulaşılabilir.
+
+   Önemli Bulgular:
+      • Ceh bölmeleri arası yüksek sıcaklık farkı
+      • 2 adet yüksek öncelikli bakım önerisi
+
+   Teşekkürler!
+
+================================================================================

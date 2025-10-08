@@ -1,0 +1,115 @@
+{
+  "sicaklik_kontrolu": {
+    "ortalama_basari": 81.52088918677391,
+    "bolge_detaylari": {
+      "ÖN ISITMA": {
+        "basari_orani": 38.18055269127655,
+        "ortalama_fark": 26.419880387708805,
+        "max_fark": 555
+      },
+      "CEH.1 ÜST1": {
+        "basari_orani": 80.06805526912765,
+        "ortalama_fark": 10.120746545679522,
+        "max_fark": 663
+      },
+      "CEH.1 ÜST2": {
+        "basari_orani": 76.55444421530213,
+        "ortalama_fark": 12.23801299236956,
+        "max_fark": 732
+      },
+      "CEH.1 ALT1": {
+        "basari_orani": 65.13198597649,
+        "ortalama_fark": 13.78750773355331,
+        "max_fark": 663
+      },
+      "CEH.2 ÜST1": {
+        "basari_orani": 90.01082697463396,
+        "ortalama_fark": 10.889075067024129,
+        "max_fark": 832
+      },
+      "CEH.2 ÜST2": {
+        "basari_orani": 87.4484429779336,
+        "ortalama_fark": 10.434264796865333,
+        "max_fark": 831
+      },
+      "CEH.2 ALT1": {
+        "basari_orani": 89.65508352237575,
+        "ortalama_fark": 12.06640544442153,
+        "max_fark": 832
+      },
+      "CEH.2 ALT2": {
+        "basari_orani": 84.54062693338832,
+        "ortalama_fark": 12.185244380284594,
+        "max_fark": 857
+      },
+      "CEH.3 ÜST1": {
+        "basari_orani": 84.62827387090121,
+        "ortalama_fark": 10.930140235100021,
+        "max_fark": 831
+      },
+      "CEH.3 ÜST2": {
+        "basari_orani": 94.22045782635595,
+        "ortalama_fark": 10.456666322953186,
+        "max_fark": 831
+      },
+      "CEH.3 ALT1": {
+        "basari_orani": 95.87801608579089,
+        "ortalama_fark": 9.355253660548566,
+        "max_fark": 832
+      },
+      "CEH.3 ALT2": {
+        "basari_orani": 91.93390389771086,
+        "ortalama_fark": 15.429521550835224,
+        "max_fark": 831
+      }
+    }
+  },
+  "enerji_verimliligi": {
+    "ortalama_guc": 36.910084553516185,
+    "verimlilik_skoru": 92.14605073210971
+  },
+  "sogutma_etkinligi": {
+    "toplam_sogutma": 204.17944421530206,
+    "etkinlik_skoru": 100,
+    "asamali_sogutma": {
+      "fark1_2": 95.1055372241699,
+      "fark2_3": 109.07390699113216
+    }
+  },
+  "ceh_dengesizlik": {
+    "ceh1_ortalama": 699.9737402900942,
+    "ceh2_ortalama": 837.5559264796865,
+    "ceh3_ortalama": 838.1732638172818,
+    "max_fark": 138.1995235271877,
+    "denge_skoru": 11.800476472812306
+  },
+  "operasyonel_verimlilik": {
+    "toplam_gun": 60,
+    "toplam_kayit": 38792,
+    "gunluk_ortalama": 825.3617021276596,
+    "tutarlilik_skoru": 80
+  },
+  "genel_skor": {
+    "toplam": 88.40425981301988,
+    "sicaklik": 40.76044459338696,
+    "enerji": 27.643815219632916,
+    "sogutma": 20.0,
+    "durum": "İYİ ✅"
+  },
+  "bakim_onerileri": [
+    {
+      "oncelik": "YÜKSEK",
+      "kategori": "Ceh Dengesi",
+      "sorun": "Ceh bölmeleri arası büyük sıcaklık farkı (138.2°C)",
+      "oneri": "Ceh bölmelerinin ısıtma elemanları ve sensörleri kontrol edilmeli",
+      "sure": "4-6 saat"
+    },
+    {
+      "oncelik": "YÜKSEK",
+      "kategori": "Kritik Bölgeler",
+      "sorun": "1 bölgede kritik kontrol sorunu: ÖN ISITMA",
+      "oneri": "Bu bölgelerin sensör ve ısıtıcıları acil kontrol edilmeli",
+      "sure": "4-6 saat"
+    }
+  ]
+}
