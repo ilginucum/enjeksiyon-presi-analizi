@@ -1,0 +1,45 @@
+{
+  "cevrim_suresi": {
+    "ortalama": 1584.1079847908745,
+    "min": 212.0,
+    "max": 61944.0,
+    "hedef_altinda_oran": 45.32319391634981,
+    "saatlik_kapasite": 2272.572346433348
+  },
+  "verimlilik": {
+    "verimlilik_orani": 0.6888564814814815,
+    "gercek_uretim": 2630,
+    "teorik_uretim": 381792.15420080244,
+    "gunluk_ortalama": 375.7142857142857
+  },
+  "kalite": {
+    "kalite_orani": 92.9277566539924,
+    "sorunlu_urun": 186,
+    "basinc_problemi": 155,
+    "dolum_problemi": 31
+  },
+  "saglik_skoru": {
+    "toplam": 67.6297299632094,
+    "cevrim": 23.598200253485423,
+    "anomali": 20.627376425855513,
+    "verimlilik": 0.17221412037037037,
+    "kalite": 23.2319391634981,
+    "durum": "ORTA 🟠"
+  },
+  "bakim_onerileri": [
+    {
+      "oncelik": "YÜKSEK",
+      "kategori": "Valf Sistemi",
+      "sorun": "90 adet basınç yükselme problemi",
+      "oneri": "Valf sistemi kontrolü ve temizliği acil yapılmalı",
+      "sure": "3-4 saat"
+    },
+    {
+      "oncelik": "ORTA",
+      "kategori": "Üretim Planlaması",
+      "sorun": "Verimlilik düşük (%0.7)",
+      "oneri": "Duruş sürelerinin analizi ve üretim planlamasının optimizasyonu",
+      "sure": "1-2 gün (analiz)"
+    }
+  ]
+}
